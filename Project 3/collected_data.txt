@@ -1,0 +1,57 @@
+Chips:15 JustPlayed:2
+[M:3 W/V:9.0/21 U:[]]
+[M:1 W/V:16.0/31 U:[]]
+[M:2 W/V:30.0/48 U:[]]
+
+Best Move: 2
+
+Chips:13 JustPlayed:1
+[M:3 W/V:168.0/342 U:[]]
+[M:2 W/V:105.0/234 U:[]]
+[M:1 W/V:222.0/424 U:[]]
+
+Best Move: 1
+
+Chips:12 JustPlayed:2
+[M:3 W/V:12.0/28 U:[]]
+[M:2 W/V:22.0/42 U:[]]
+[M:1 W/V:13.0/30 U:[]]
+
+Best Move: 2
+
+Chips:10 JustPlayed:1
+[M:2 W/V:760.0/896 U:[]]
+[M:3 W/V:14.0/41 U:[]]
+[M:1 W/V:28.0/63 U:[]]
+
+Best Move: 2
+
+Chips:8 JustPlayed:2
+[M:3 W/V:14.0/35 U:[]]
+[M:2 W/V:16.0/39 U:[]]
+[M:1 W/V:8.0/26 U:[]]
+
+Best Move: 2
+
+Chips:6 JustPlayed:1
+[M:1 W/V:15.0/34 U:[]]
+[M:3 W/V:5.0/20 U:[]]
+[M:2 W/V:917.0/946 U:[]]
+
+Best Move: 2
+
+Chips:4 JustPlayed:2
+[M:3 W/V:0.0/23 U:[]]
+[M:1 W/V:9.0/46 U:[]]
+[M:2 W/V:3.0/31 U:[]]
+
+Best Move: 1
+
+Chips:3 JustPlayed:1
+[M:1 W/V:3.0/16 U:[]]
+[M:2 W/V:0.0/12 U:[]]
+[M:3 W/V:972.0/972 U:[]]
+
+Best Move: 3
+
+Player 2 wins!
